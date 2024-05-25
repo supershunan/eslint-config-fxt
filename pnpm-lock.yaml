@@ -9,7 +9,7 @@ importers:
   .:
     dependencies:
       "@fxt/eslint-config-vue":
-        specifier: workspace:^
+        specifier: ^0.0.0
         version: link:packages/vue
     devDependencies:
       eslint:
@@ -65,7 +65,7 @@ importers:
   packages/typescript:
     dependencies:
       "@fxt/eslint-config-basic":
-        specifier: workspace:^
+        specifier: ^0.0.0
         version: link:../basic
       "@typescript-eslint/eslint-plugin":
         specifier: ^7.10.0
@@ -81,7 +81,7 @@ importers:
   packages/vue:
     dependencies:
       "@fxt/eslint-config-ts":
-        specifier: workspace:^
+        specifier: ^0.0.0
         version: link:../typescript
       eslint-plugin-vue:
         specifier: ^9.26.0

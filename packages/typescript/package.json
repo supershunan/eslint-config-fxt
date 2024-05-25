@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@fxt/eslint-config-basic": "workspace:^",
+    "@fxt/eslint-config-basic": "^0.0.0",
     "@typescript-eslint/eslint-plugin": "^7.10.0",
     "@typescript-eslint/parser": "^7.10.0"
   },

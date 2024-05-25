@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@fxt/eslint-config-vue": "workspace:^"
+    "@fxt/eslint-config-vue": "^0.0.0"
   },
   "devDependencies": {
     "eslint": "^9.3.0",
