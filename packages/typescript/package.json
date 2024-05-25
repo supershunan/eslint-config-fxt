@@ -1,5 +1,5 @@
 {
-  "name": "@fxt/eslint-config-ts",
+  "name": "eslint-config-ts-fxt",
   "version": "1.0.0",
   "description": "A typescript ESLint configuration",
   "keywords": [],
@@ -10,9 +10,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@fxt/eslint-config-basic": "^0.0.0",
     "@typescript-eslint/eslint-plugin": "^7.10.0",
-    "@typescript-eslint/parser": "^7.10.0"
+    "@typescript-eslint/parser": "^7.10.0",
+    "eslint-config-basic-fxt": "^1.0.0"
   },
   "devDependencies": {
     "eslint": "^9.3.0"

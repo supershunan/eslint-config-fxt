@@ -1,5 +1,5 @@
 {
-  "name": "@fxt/eslint-config-basic",
+  "name": "eslint-config-basic-fxt",
   "version": "1.0.0",
   "description": "A basic ESLint configuration",
   "keywords": [],

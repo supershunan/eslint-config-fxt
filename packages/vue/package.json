@@ -1,5 +1,5 @@
 {
-  "name": "@fxt/eslint-config-vue",
+  "name": "eslint-config-vue-fxt",
   "version": "1.0.0",
   "description": "A Vue ESLint configuration",
   "keywords": [],
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@fxt/eslint-config-ts": "^0.0.0",
+    "eslint-config-ts-fxt": "^1.0.0",
     "eslint-plugin-vue": "^9.26.0"
   },
   "devDependencies": {

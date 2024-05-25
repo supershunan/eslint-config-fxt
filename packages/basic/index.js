@@ -94,8 +94,8 @@ module.exports = {
   ],
   rules: {
     /**
-     * 代码风格
-     */
+       * 代码风格
+       */
     // 指定数组的元素之间要以空格隔开(, 后面)， never参数：[ 之前和 ] 之后不能带空格，always参数：[ 之前和 ] 之后必须带空格
     'array-bracket-spacing': [2, 'never'],
     // 禁止或强制在单行代码块中使用空格(禁用)
@@ -120,8 +120,8 @@ module.exports = {
     // 末尾加分号
     semi: ['error', 'always'],
     /**
-     * 开发规范
-     */
+       * 开发规范
+       */
     // 不允许与 -0 进行比较
     'no-compare-neg-zero': 'error',
     // 禁止条件表达式中的赋值运算符

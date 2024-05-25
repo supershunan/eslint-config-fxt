@@ -1,7 +1,7 @@
 module.exports = {
   extends: [
     'plugin:vue/vue3-recommended',
-    '@fxt/eslint-config-ts'
+    'eslint-config-ts-fxt'
   ],
   overrides: [
     {
