@@ -5,8 +5,6 @@ module.exports = {
     node: true
   },
   extends: [
-    'standard',
-    'plugin:import/recommended',
     'plugin:eslint-comments/recommended',
     'plugin:jsonc/recommended-with-jsonc',
     'plugin:yml/standard'
@@ -15,12 +13,6 @@ module.exports = {
     'html',
     'unicorn'
   ],
-  settings: {
-    // 拓展 import resolver 文件类型
-    'import/resolver': {
-      node: { extensions: ['.js', '.mjs', '.ts', '.d.ts'] }
-    }
-  },
   overrides: [
     {
       // eslint json 文件

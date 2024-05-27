@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ts-fxt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A typescript ESLint configuration",
   "keywords": [],
   "license": "ISC",
@@ -12,7 +12,7 @@
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^7.10.0",
     "@typescript-eslint/parser": "^7.10.0",
-    "eslint-config-basic-fxt": "^1.0.0"
+    "eslint-config-basic-fxt": "^1.0.1"
   },
   "devDependencies": {
     "eslint": "^9.3.0"

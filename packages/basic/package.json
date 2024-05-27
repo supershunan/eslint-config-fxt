@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-basic-fxt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A basic ESLint configuration",
   "keywords": [],
   "license": "ISC",
@@ -10,10 +10,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "eslint-config-standard": "^17.1.0",
     "eslint-plugin-eslint-comments": "^3.2.0",
     "eslint-plugin-html": "^8.1.1",
-    "eslint-plugin-import": "^2.29.1",
     "eslint-plugin-jsonc": "^2.16.0",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^6.1.1",
